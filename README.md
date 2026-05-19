@@ -96,7 +96,7 @@ Django automatically manages this folder. Every time you change a model it gener
 
 ### Data Flow: HTML Form → Database
 
-![Raccoon approves this flow](https://imgur.com/a/raccoon-django-dataflow-gEcOlBV)
+![Raccoon approves this flow](https://i.imgur.com/r3yyYva.png)
 
 1. User fills out the form in the browser
 2. Browser sends an **HTTP POST request** to a URL, carrying the form data in the request body
